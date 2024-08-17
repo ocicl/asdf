@@ -1,0 +1,9 @@
+* asdf
+
+Another System Definition Facility
+
+|---------+--------------------------------------------------------------|
+| source  | file:https://asdf.common-lisp.dev/archives/asdf-3.3.7.tar.gz |
+| commit  | 3.3.7                                                        |
+| systems | asdf                                                         |
+|---------+--------------------------------------------------------------|
